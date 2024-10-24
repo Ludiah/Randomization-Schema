@@ -1,4 +1,4 @@
-### Randomization Schema
+# Randomization Schema
 This project generates unique patient identifiers by assigning a string of characters and numbers to track patients and their treatment status. 
 
 * The format "AAA, BBB..." represents sequential sites
